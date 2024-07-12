@@ -12,5 +12,5 @@ and meta-qt6
 
 Include this line in conf/local.conf
 
-`IMAGE_INSTALL_append = " helloworld"
+`IMAGE_INSTALL_append = " helloworld"`
 
